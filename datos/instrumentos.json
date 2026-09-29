@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Charango",
+    "familia": "cuerda",
+    "origen": "Altiplano andino, entre Bolivia y el norte argentino",
+    "descripcion": "Guitarra pequeña de diez cuerdas cuya caja se hacía tradicionalmente con el caparazón de un quirquincho.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Bandoneón",
+    "familia": "viento",
+    "origen": "Alemania, adoptado por el tango rioplatense",
+    "descripcion": "Instrumento de fuelle y botones que se volvió el sonido característico de las orquestas típicas.",
+    "disponible": false
+  },
+  {
+    "id": 3,
+    "nombre": "Bombo legüero",
+    "familia": "percusión",
+    "origen": "Santiago del Estero, Argentina",
+    "descripcion": "Tambor de madera ahuecada con parches de cuero que se toca con un palo y una maza en chacareras y zambas.",
+    "disponible": true
+  },
+  {
+    "id": 4,
+    "nombre": "Quena",
+    "familia": "viento",
+    "origen": "Cordillera de los Andes",
+    "descripcion": "Flauta de caña con muesca en el extremo, sin boquilla, que se toca apoyándola en el labio inferior.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Guitarra criolla",
+    "familia": "cuerda",
+    "origen": "España, adaptada al folklore argentino",
+    "descripcion": "Guitarra de cuerdas de nailon que acompaña la mayoría de los ritmos folklóricos del país.",
+    "disponible": true
+  },
+  {
+    "id": 6,
+    "nombre": "Cajón peruano",
+    "familia": "percusión",
+    "origen": "Costa del Perú",
+    "descripcion": "Caja de madera sobre la que se sienta el músico y que golpea con las manos en la tapa frontal.",
+    "disponible": false
+  }
+]

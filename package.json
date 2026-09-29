@@ -1,0 +1,22 @@
+{
+  "name": "tp-03-api-instrumentos",
+  "version": "1.0.0",
+  "description": "API HTTP con Express para consultar y cargar en memoria un catalogo de instrumentos musicales.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node --check src/index.js && node --check src/archivos.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "api",
+    "instrumentos"
+  ],
+  "author": "German Nieva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
